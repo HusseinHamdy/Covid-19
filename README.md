@@ -15,8 +15,8 @@ Data Visualization:
 
 Power BI is used to create a variety of interactive visualizations, such as:
 
-Line charts to show trends in cases and deaths over time.
+- Line charts to show trends in cases and deaths over time.
 
-Pie charts to compare COVID-19 data across countries or regions.
+- Pie charts to compare COVID-19 data across countries or regions.
 
-Area charts to show total  cases and deaths by countries.
+- Area charts to show total  cases and deaths by countries.
