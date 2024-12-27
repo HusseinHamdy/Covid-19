@@ -21,6 +21,6 @@ Power BI is used to create a variety of interactive visualizations, such as:
 
 - Area charts to show total  cases and deaths by countries.
 # Tools used in projects
-Excel
-Power BI
-Power Query
+-Excel
+-Power BI
+-Power Query
