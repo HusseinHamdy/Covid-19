@@ -6,3 +6,7 @@ This project focuses on creating an interactive and detailed COVID-19 report by 
 Data Collection:
 
 The project imports COVID-19 data from an Excel file, which contains information on total confirmed cases, deaths, new cases, and other relevant metrics.
+
+Data Transformation:
+
+Power Query is used for cleaning and preparing the data. This may include tasks like removing duplicates, handling missing values, and ensuring that data is formatted correctly for analysis.
